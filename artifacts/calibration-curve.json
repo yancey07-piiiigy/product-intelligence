@@ -1,0 +1,642 @@
+[
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.234958,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.238948,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.240934,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.261632,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.263063,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.302576,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.31031,
+    "margin": 0.040742,
+    "coverage": 0.7,
+    "precision": 0.8571428571428571
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.313196,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.325549,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.332593,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.342417,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.345516,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.353723,
+    "margin": 0.040742,
+    "coverage": 0.675,
+    "precision": 0.8888888888888888
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.392385,
+    "margin": 0.040742,
+    "coverage": 0.65,
+    "precision": 0.9230769230769231
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.450646,
+    "margin": 0.040742,
+    "coverage": 0.65,
+    "precision": 0.9230769230769231
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.491836,
+    "margin": 0.040742,
+    "coverage": 0.625,
+    "precision": 0.96
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.510949,
+    "margin": 0.040742,
+    "coverage": 0.6,
+    "precision": 0.9583333333333334
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.685258,
+    "margin": 0.040742,
+    "coverage": 0.575,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.732852,
+    "margin": 0.040742,
+    "coverage": 0.55,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.764988,
+    "margin": 0.040742,
+    "coverage": 0.525,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.785724,
+    "margin": 0.040742,
+    "coverage": 0.5,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.807625,
+    "margin": 0.040742,
+    "coverage": 0.475,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.818644,
+    "margin": 0.040742,
+    "coverage": 0.45,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.820485,
+    "margin": 0.040742,
+    "coverage": 0.425,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.860159,
+    "margin": 0.040742,
+    "coverage": 0.4,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.870588,
+    "margin": 0.040742,
+    "coverage": 0.375,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.898225,
+    "margin": 0.040742,
+    "coverage": 0.35,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.899395,
+    "margin": 0.040742,
+    "coverage": 0.325,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.900184,
+    "margin": 0.040742,
+    "coverage": 0.3,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.902027,
+    "margin": 0.040742,
+    "coverage": 0.275,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.902961,
+    "margin": 0.040742,
+    "coverage": 0.25,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.906438,
+    "margin": 0.040742,
+    "coverage": 0.225,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.906659,
+    "margin": 0.040742,
+    "coverage": 0.2,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.915689,
+    "margin": 0.040742,
+    "coverage": 0.175,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.938701,
+    "margin": 0.040742,
+    "coverage": 0.15,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.94216,
+    "margin": 0.040742,
+    "coverage": 0.125,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.943443,
+    "margin": 0.040742,
+    "coverage": 0.1,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.952159,
+    "margin": 0.040742,
+    "coverage": 0.075,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.963282,
+    "margin": 0.040742,
+    "coverage": 0.05,
+    "precision": 1.0
+  },
+  {
+    "method": "clip",
+    "split": "calibration",
+    "threshold": 0.967667,
+    "margin": 0.040742,
+    "coverage": 0.025,
+    "precision": 1.0
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.686368,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.740046,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.779548,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.792508,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.799543,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.816153,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.819134,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.821677,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.825632,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.82973,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.832253,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.835282,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.837226,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.839368,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.839577,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.841744,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.845475,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.851179,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.851877,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.857921,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.859806,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.865131,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.865186,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.866581,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.867012,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.867279,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.87507,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.875086,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.877366,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.879626,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.88028,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.881489,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.884097,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.885582,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.886214,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.896778,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.906623,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.917664,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.938507,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  },
+  {
+    "method": "handcrafted",
+    "split": "calibration",
+    "threshold": 0.939223,
+    "margin": 1.000001,
+    "coverage": 0.0,
+    "precision": null
+  }
+]

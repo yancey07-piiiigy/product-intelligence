@@ -1,0 +1,12 @@
+{
+  "threshold": 1.000001,
+  "margin": 1.000001,
+  "precision": null,
+  "accepted": 0,
+  "signature": "f53cb034932075bb3d4c48442893f13ba7a666b15dee12430944cc7dbd15f0fe",
+  "method": "handcrafted",
+  "n": 40,
+  "target": 0.85,
+  "manifest_hash": "33e4f57e0c7348d084c579915fb2fe1602c282184cbb16e15fd4cd8e82118c0a",
+  "definition": "Score: 0.6 * dHash bit similarity + 0.4 * foreground RGB histogram intersection; top1-top2 margin. No score is a probability."
+}

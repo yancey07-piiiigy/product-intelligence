@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b8590a-2fce-4e8e-ae11-ff4e9d971814" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2223" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000001963621223" />
+      <entry key="MS500" value="1.052001181301806" />
+      <entry key="S2" value="2.208693389914554" />
+      <entry key="S5" value="4.213953209971349" />
+      <entry key="S10" value="5.681094610910117" />
+      <entry key="S30" value="7.103568375152006" />
+      <entry key="S60" value="7.534075438400288" />
+      <entry key="M2" value="7.762418057463004" />
+      <entry key="M5" value="7.903832854110856" />
+      <entry key="M10" value="7.951725184344652" />
+      <entry key="M15" value="7.9677741280235015" />
+      <entry key="M30" value="7.983865692298198" />
+      <entry key="H1" value="7.991927495529283" />
+      <entry key="H2" value="7.995962409146989" />
+      <entry key="H4" value="7.997980869798666" />
+      <entry key="D1" value="7.999663431793047" />
+      <entry key="W1" value="7.999951917688506" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.965936519917417" />
+      <entry key="MS500" value="1.0447972033057078" />
+      <entry key="S2" value="2.204251220538384" />
+      <entry key="S5" value="4.20924740906216" />
+      <entry key="S10" value="5.67746878793626" />
+      <entry key="S30" value="7.1019176025398885" />
+      <entry key="S60" value="7.533180887672221" />
+      <entry key="M2" value="7.7619522565868415" />
+      <entry key="M5" value="7.9036419203994255" />
+      <entry key="M10" value="7.951628934256246" />
+      <entry key="M15" value="7.967709786169339" />
+      <entry key="M30" value="7.983833433536196" />
+      <entry key="H1" value="7.991911344138671" />
+      <entry key="H2" value="7.995954327942908" />
+      <entry key="H4" value="7.997976827818634" />
+      <entry key="D1" value="7.999662757938253" />
+      <entry key="W1" value="7.999951821418847" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3K8igfgBuPJTkBNNBlHKsuxuCaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.server.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "/Users/yancey/Library/Application Support/JetBrains/PyCharm2026.2/plugins/Shell Script/shellcheck",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/yancey/Documents/NTU/PE6201/Assignment/End of Class Project/product-intelligence",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b8590a-2fce-4e8e-ae11-ff4e9d971814" name="Changes" comment="" />
+      <created>1790945708629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790945708629</updated>
+      <workItem from="1790945709629" duration="2666000" />
+      <workItem from="1790996640524" duration="34004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/product_intelligence$server.coverage" NAME="server Coverage Results" MODIFIED="1791123054812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

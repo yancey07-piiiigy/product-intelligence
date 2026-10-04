@@ -1,0 +1,2510 @@
+[
+  {
+    "query_id": "q029",
+    "expected_id": "40291",
+    "predicted_id": "40291",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Red",
+      "gender": "Unisex",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Red",
+      "gender": "Unisex",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Red. Catalog use: Casual; Catalog audience: Unisex; Catalog season: Winter. [Source #40291]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Red"
+        },
+        {
+          "field": "gender",
+          "value": "Unisex"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "40291",
+      "mode": "openrouter_grounded",
+      "cached": true,
+      "api_usd": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0
+      },
+      "warning": null,
+      "api_seconds": 2.033,
+      "model": "openai/gpt-4o-mini",
+      "original_usage": {
+        "input_tokens": 193,
+        "output_tokens": 57,
+        "total_tokens": 250
+      },
+      "original_api_usd": null,
+      "cost_source": "cache_hit"
+    },
+    "retrieval_seconds": 0.054180916864424944,
+    "summary_wall_seconds": 0.0003065001219511032
+  },
+  {
+    "query_id": "q030",
+    "expected_id": "41843",
+    "predicted_id": "41843",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Blue. Catalog use: Sports; Catalog audience: Women; Catalog season: Summer. [Source #41843]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "41843",
+      "mode": "openrouter_grounded",
+      "cached": true,
+      "api_usd": 0,
+      "cost_source": "cache_hit",
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0
+      },
+      "warning": null,
+      "api_seconds": 2.529,
+      "model": "openai/gpt-4o-mini",
+      "original_usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "original_api_usd": 6.09e-05
+    },
+    "retrieval_seconds": 0.06333091715350747,
+    "summary_wall_seconds": 0.0002914590295404196
+  },
+  {
+    "query_id": "q031",
+    "expected_id": "44408",
+    "predicted_id": "44408",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Grey. Catalog use: Sports; Catalog audience: Men; Catalog season: Summer. [Source #44408]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Grey"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "44408",
+      "mode": "openrouter_grounded",
+      "cached": true,
+      "api_usd": 0,
+      "cost_source": "cache_hit",
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0
+      },
+      "warning": null,
+      "api_seconds": 1.32,
+      "model": "openai/gpt-4o-mini",
+      "original_usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "original_api_usd": 6.09e-05
+    },
+    "retrieval_seconds": 0.06215620809234679,
+    "summary_wall_seconds": 0.00021425005979835987
+  },
+  {
+    "query_id": "q032",
+    "expected_id": "6326",
+    "predicted_id": "6326",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Unisex",
+      "season": "Spring",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Unisex",
+      "season": "Spring",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Blue. Catalog use: Casual; Catalog audience: Unisex; Catalog season: Spring. [Source #6326]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Unisex"
+        },
+        {
+          "field": "season",
+          "value": "Spring"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "6326",
+      "mode": "openrouter_grounded",
+      "cached": true,
+      "api_usd": 0,
+      "cost_source": "cache_hit",
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0
+      },
+      "warning": null,
+      "api_seconds": 1.871,
+      "model": "openai/gpt-4o-mini",
+      "original_usage": {
+        "input_tokens": 193,
+        "output_tokens": 57,
+        "total_tokens": 250
+      },
+      "original_api_usd": 6.315e-05
+    },
+    "retrieval_seconds": 0.05711774993687868,
+    "summary_wall_seconds": 0.0002966660540550947
+  },
+  {
+    "query_id": "q033",
+    "expected_id": "34859",
+    "predicted_id": "34859",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: White. Catalog use: Casual; Catalog audience: Unisex; Catalog season: Summer. [Source #34859]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "White"
+        },
+        {
+          "field": "gender",
+          "value": "Unisex"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "34859",
+      "mode": "openrouter_grounded",
+      "cached": true,
+      "api_usd": 0,
+      "cost_source": "cache_hit",
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0
+      },
+      "warning": null,
+      "api_seconds": 1.957,
+      "model": "openai/gpt-4o-mini",
+      "original_usage": {
+        "input_tokens": 193,
+        "output_tokens": 57,
+        "total_tokens": 250
+      },
+      "original_api_usd": 6.315e-05
+    },
+    "retrieval_seconds": 0.0561003340408206,
+    "summary_wall_seconds": 0.00022924994118511677
+  },
+  {
+    "query_id": "q034",
+    "expected_id": "11851",
+    "predicted_id": "11851",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Grey. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #11851]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Grey"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "11851",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 3.458,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.04948416608385742,
+    "summary_wall_seconds": 3.4605758329853415
+  },
+  {
+    "query_id": "q035",
+    "expected_id": "59053",
+    "predicted_id": "59053",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Heels",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Heels. Colour: Gold. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #59053]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Heels"
+        },
+        {
+          "field": "baseColour",
+          "value": "Gold"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "59053",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.347,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.0557090830989182,
+    "summary_wall_seconds": 1.347427959088236
+  },
+  {
+    "query_id": "q036",
+    "expected_id": "44212",
+    "predicted_id": "44212",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Gold. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #44212]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Gold"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "44212",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 1.461,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05145412520505488,
+    "summary_wall_seconds": 1.461781166959554
+  },
+  {
+    "query_id": "q037",
+    "expected_id": "33702",
+    "predicted_id": "33702",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Smart Casual"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Smart Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Black. Catalog use: Smart Casual; Catalog audience: Men; Catalog season: Winter. [Source #33702]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Smart Casual"
+        }
+      ],
+      "source_id": "33702",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.826,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05195637489669025,
+    "summary_wall_seconds": 1.827288000145927
+  },
+  {
+    "query_id": "q038",
+    "expected_id": "35669",
+    "predicted_id": "35669",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Black. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #35669]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "35669",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 1.547,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05547391693107784,
+    "summary_wall_seconds": 1.5481126671656966
+  },
+  {
+    "query_id": "q039",
+    "expected_id": "43371",
+    "predicted_id": "13118",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: White. Catalog use: Casual; Catalog audience: Men; Catalog season: Fall. [Source #13118]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "White"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "13118",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 1.534,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05602012504823506,
+    "summary_wall_seconds": 1.535310208098963
+  },
+  {
+    "query_id": "q040",
+    "expected_id": "56994",
+    "predicted_id": "56994",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Orange",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flats",
+      "baseColour": "Orange",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flats. Colour: Orange. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #56994]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flats"
+        },
+        {
+          "field": "baseColour",
+          "value": "Orange"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "56994",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 2.149,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05181658291257918,
+    "summary_wall_seconds": 2.1495960410684347
+  },
+  {
+    "query_id": "q041",
+    "expected_id": "7249",
+    "predicted_id": "7249",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: Brown. Catalog use: Casual; Catalog audience: Men; Catalog season: Fall. [Source #7249]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "7249",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 1.593,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.057433250127360225,
+    "summary_wall_seconds": 1.5935930002015084
+  },
+  {
+    "query_id": "q042",
+    "expected_id": "10281",
+    "predicted_id": "10281",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Black. Catalog use: Formal; Catalog audience: Men; Catalog season: Fall. [Source #10281]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Formal"
+        }
+      ],
+      "source_id": "10281",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 2.087,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05695529095828533,
+    "summary_wall_seconds": 2.0880157500505447
+  },
+  {
+    "query_id": "q043",
+    "expected_id": "12853",
+    "predicted_id": "12853",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Black. Catalog use: Formal; Catalog audience: Men; Catalog season: Fall. [Source #12853]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Formal"
+        }
+      ],
+      "source_id": "12853",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.537,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.057309291092678905,
+    "summary_wall_seconds": 1.5380078749731183
+  },
+  {
+    "query_id": "q044",
+    "expected_id": "45625",
+    "predicted_id": "45625",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: Brown. Catalog use: Casual; Catalog audience: Men; Catalog season: Winter. [Source #45625]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "45625",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 2.15,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05304008419625461,
+    "summary_wall_seconds": 2.151309250155464
+  },
+  {
+    "query_id": "q045",
+    "expected_id": "56993",
+    "predicted_id": "56993",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flats",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flats. Colour: Brown. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #56993]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flats"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "56993",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.331,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.04728170880116522,
+    "summary_wall_seconds": 1.3324238329660147
+  },
+  {
+    "query_id": "q046",
+    "expected_id": "47529",
+    "predicted_id": "47529",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flats",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flats. Colour: Gold. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #47529]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flats"
+        },
+        {
+          "field": "baseColour",
+          "value": "Gold"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "47529",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.737,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.049725333228707314,
+    "summary_wall_seconds": 1.7383826670702547
+  },
+  {
+    "query_id": "q047",
+    "expected_id": "15303",
+    "predicted_id": "15303",
+    "ground_truth": {
+      "articleType": "Sports Sandals",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Sports Sandals",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Sandals. Colour: Beige. Catalog use: Casual; Catalog audience: Women; Catalog season: Fall. [Source #15303]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Sandals"
+        },
+        {
+          "field": "baseColour",
+          "value": "Beige"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "15303",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.315e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 193,
+        "output_tokens": 57,
+        "total_tokens": 250
+      },
+      "warning": null,
+      "api_seconds": 2.454,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.055030749877914786,
+    "summary_wall_seconds": 2.4549342079553753
+  },
+  {
+    "query_id": "q048",
+    "expected_id": "3696",
+    "predicted_id": "3696",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: Black. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #3696]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "3696",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 2.456,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05690120789222419,
+    "summary_wall_seconds": 2.4569349999073893
+  },
+  {
+    "query_id": "q049",
+    "expected_id": "59031",
+    "predicted_id": "59031",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Heels",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Heels. Colour: Beige. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #59031]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Heels"
+        },
+        {
+          "field": "baseColour",
+          "value": "Beige"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "59031",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 2.079,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.055748708080500364,
+    "summary_wall_seconds": 2.080292292172089
+  },
+  {
+    "query_id": "q050",
+    "expected_id": "12719",
+    "predicted_id": "12719",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Green",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flats",
+      "baseColour": "Green",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flats. Colour: Green. Catalog use: Casual; Catalog audience: Women; Catalog season: Fall. [Source #12719]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flats"
+        },
+        {
+          "field": "baseColour",
+          "value": "Green"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "12719",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.604,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05113212484866381,
+    "summary_wall_seconds": 1.6045049999374896
+  },
+  {
+    "query_id": "q051",
+    "expected_id": "19329",
+    "predicted_id": "19329",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: Brown. Catalog use: Casual; Catalog audience: Men; Catalog season: Fall. [Source #19329]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "19329",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 3.685,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05561454105190933,
+    "summary_wall_seconds": 3.6860276670195162
+  },
+  {
+    "query_id": "q052",
+    "expected_id": "59762",
+    "predicted_id": "59762",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Heels",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Heels. Colour: Brown. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #59762]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Heels"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "59762",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.268,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05122241587378085,
+    "summary_wall_seconds": 1.26958387484774
+  },
+  {
+    "query_id": "q053",
+    "expected_id": "18552",
+    "predicted_id": "18552",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flats",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flats. Colour: Black. Catalog use: Casual; Catalog audience: Women; Catalog season: Winter. [Source #18552]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flats"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "18552",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.454,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.057643041014671326,
+    "summary_wall_seconds": 1.4553376249969006
+  },
+  {
+    "query_id": "q054",
+    "expected_id": "47179",
+    "predicted_id": "47179",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Sandals. Colour: Black. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #47179]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sandals"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "47179",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 2.494,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05650312500074506,
+    "summary_wall_seconds": 2.494763875147328
+  },
+  {
+    "query_id": "q055",
+    "expected_id": "17837",
+    "predicted_id": "17837",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Black. Catalog use: Casual; Catalog audience: Women; Catalog season: Fall. [Source #17837]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "17837",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 1.532,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.053282208973541856,
+    "summary_wall_seconds": 1.5326168339233845
+  },
+  {
+    "query_id": "q056",
+    "expected_id": "9120",
+    "predicted_id": "9120",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Black. Catalog use: Sports; Catalog audience: Men; Catalog season: Fall. [Source #9120]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "9120",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.535,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05994549999013543,
+    "summary_wall_seconds": 1.5363595830276608
+  },
+  {
+    "query_id": "q057",
+    "expected_id": "22142",
+    "predicted_id": "22142",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Brown. Catalog use: Formal; Catalog audience: Men; Catalog season: Fall. [Source #22142]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Formal"
+        }
+      ],
+      "source_id": "22142",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.535,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05061012483201921,
+    "summary_wall_seconds": 1.5358329999726266
+  },
+  {
+    "query_id": "q058",
+    "expected_id": "22130",
+    "predicted_id": "22130",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Black. Catalog use: Formal; Catalog audience: Men; Catalog season: Fall. [Source #22130]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Formal"
+        }
+      ],
+      "source_id": "22130",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.533,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.058223707834258676,
+    "summary_wall_seconds": 1.5341125829145312
+  },
+  {
+    "query_id": "q059",
+    "expected_id": "34643",
+    "predicted_id": "34643",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Black. Catalog use: Sports; Catalog audience: Men; Catalog season: Fall. [Source #34643]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "34643",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.534,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.0636821670923382,
+    "summary_wall_seconds": 1.535542625002563
+  },
+  {
+    "query_id": "q060",
+    "expected_id": "24695",
+    "predicted_id": "24695",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Sandals. Colour: Black. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #24695]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sandals"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "24695",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.535,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05830687494017184,
+    "summary_wall_seconds": 1.535593417007476
+  },
+  {
+    "query_id": "q061",
+    "expected_id": "2213",
+    "predicted_id": "2213",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Sandals",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Sandals. Colour: Brown. Catalog use: Casual; Catalog audience: Men; Catalog season: Fall. [Source #2213]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sandals"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "2213",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.226,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.06828562496230006,
+    "summary_wall_seconds": 1.2276431249920279
+  },
+  {
+    "query_id": "q062",
+    "expected_id": "6285",
+    "predicted_id": "6285",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Navy Blue",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Navy Blue",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Navy Blue. Catalog use: Casual; Catalog audience: Unisex; Catalog season: Summer. [Source #6285]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Navy Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Unisex"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "6285",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.465e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 195,
+        "output_tokens": 59,
+        "total_tokens": 254
+      },
+      "warning": null,
+      "api_seconds": 1.529,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.06156700011342764,
+    "summary_wall_seconds": 1.5298140421509743
+  },
+  {
+    "query_id": "q063",
+    "expected_id": "6680",
+    "predicted_id": "6680",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Grey. Catalog use: Sports; Catalog audience: Men; Catalog season: Summer. [Source #6680]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Grey"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "6680",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 2.184,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.06473670899868011,
+    "summary_wall_seconds": 2.185095207998529
+  },
+  {
+    "query_id": "q064",
+    "expected_id": "32191",
+    "predicted_id": "32191",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Blue. Catalog use: Sports; Catalog audience: Men; Catalog season: Summer. [Source #32191]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "32191",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 2.085,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.0636430000886321,
+    "summary_wall_seconds": 2.085859457962215
+  },
+  {
+    "query_id": "q065",
+    "expected_id": "20823",
+    "predicted_id": "20823",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    },
+    "summary_source": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    },
+    "summary": {
+      "text": "Catalog category: Formal Shoes. Colour: Black. Catalog use: Formal; Catalog audience: Men; Catalog season: Winter. [Source #20823]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Formal Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Winter"
+        },
+        {
+          "field": "usage",
+          "value": "Formal"
+        }
+      ],
+      "source_id": "20823",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 2.156,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.060024207923561335,
+    "summary_wall_seconds": 2.1569630838930607
+  },
+  {
+    "query_id": "q066",
+    "expected_id": "6457",
+    "predicted_id": "6457",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Flip Flops. Colour: Blue. Catalog use: Casual; Catalog audience: Women; Catalog season: Summer. [Source #6457]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Flip Flops"
+        },
+        {
+          "field": "baseColour",
+          "value": "Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Women"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "6457",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 2.174,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05671958299353719,
+    "summary_wall_seconds": 2.1751452907919884
+  },
+  {
+    "query_id": "q067",
+    "expected_id": "43365",
+    "predicted_id": "43365",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Brown. Catalog use: Sports; Catalog audience: Men; Catalog season: Summer. [Source #43365]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Brown"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "43365",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 2.763,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.06012362497858703,
+    "summary_wall_seconds": 2.7640742920339108
+  },
+  {
+    "query_id": "q068",
+    "expected_id": "7578",
+    "predicted_id": "7578",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary_source": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "summary": {
+      "text": "Catalog category: Sports Shoes. Colour: Blue. Catalog use: Sports; Catalog audience: Men; Catalog season: Summer. [Source #7578]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sports Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "Blue"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Sports"
+        }
+      ],
+      "source_id": "7578",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.09e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 190,
+        "output_tokens": 54,
+        "total_tokens": 244
+      },
+      "warning": null,
+      "api_seconds": 1.227,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.06083091604523361,
+    "summary_wall_seconds": 1.2274576250929385
+  },
+  {
+    "query_id": "q069",
+    "expected_id": "23838",
+    "predicted_id": "23838",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Sandals. Colour: Black. Catalog use: Casual; Catalog audience: Men; Catalog season: Fall. [Source #23838]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Sandals"
+        },
+        {
+          "field": "baseColour",
+          "value": "Black"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Fall"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "23838",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.165e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 191,
+        "output_tokens": 55,
+        "total_tokens": 246
+      },
+      "warning": null,
+      "api_seconds": 1.231,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05756220780313015,
+    "summary_wall_seconds": 1.232010958949104
+  },
+  {
+    "query_id": "q070",
+    "expected_id": "5926",
+    "predicted_id": "5926",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary_source": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "summary": {
+      "text": "Catalog category: Casual Shoes. Colour: White. Catalog use: Casual; Catalog audience: Men; Catalog season: Summer. [Source #5926]",
+      "claims": [
+        {
+          "field": "articleType",
+          "value": "Casual Shoes"
+        },
+        {
+          "field": "baseColour",
+          "value": "White"
+        },
+        {
+          "field": "gender",
+          "value": "Men"
+        },
+        {
+          "field": "season",
+          "value": "Summer"
+        },
+        {
+          "field": "usage",
+          "value": "Casual"
+        }
+      ],
+      "source_id": "5926",
+      "mode": "openrouter_grounded",
+      "cached": false,
+      "api_usd": 6.24e-05,
+      "cost_source": "provider_reported",
+      "usage": {
+        "input_tokens": 192,
+        "output_tokens": 56,
+        "total_tokens": 248
+      },
+      "warning": null,
+      "api_seconds": 2.144,
+      "model": "openai/gpt-4o-mini"
+    },
+    "retrieval_seconds": 0.05388170899823308,
+    "summary_wall_seconds": 2.1449909578077495
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "note": "Frozen transformed catalog-source queries; not independent real-world photos. No live API result is included.",
+  "cases": [
+    {
+      "case": "A",
+      "file": "A_q029.jpg",
+      "query_id": "q029",
+      "expected_demo_outcome": "Accepted catalog match",
+      "ground_truth_kind": "known",
+      "expected_product_id": "40291",
+      "recorded_top_candidate_id": "40291",
+      "recorded_score": 0.891323,
+      "recorded_top_two_gap": 0.535903,
+      "sha256": "cccdebd86b6d85d78f61da788fd8f56f4bf9e6ad1783c3197de10cc4d1bfc564",
+      "source": "artifacts/queries/q029.jpg"
+    },
+    {
+      "case": "B",
+      "file": "B_q077.jpg",
+      "query_id": "q077",
+      "expected_demo_outcome": "Uncertain out-of-catalog shoe",
+      "ground_truth_kind": "unknown_footwear",
+      "expected_product_id": null,
+      "recorded_top_candidate_id": "12517",
+      "recorded_score": 0.420999,
+      "recorded_top_two_gap": 0.004952,
+      "sha256": "3dc612a5979de885a7b6b4d9e556f58b529971c4dcbdcc9f9177f06fa8f069d7",
+      "source": "artifacts/queries/q077.jpg"
+    },
+    {
+      "case": "C",
+      "file": "C_q092.jpg",
+      "query_id": "q092",
+      "expected_demo_outcome": "Non-footwear rejection",
+      "ground_truth_kind": "non_footwear",
+      "expected_product_id": null,
+      "recorded_top_candidate_id": "8574",
+      "recorded_score": 0.247213,
+      "recorded_top_two_gap": 0.000252,
+      "sha256": "4eb8c86adad29f767db175180b0cb87d713c812e468aef29f4e48de3d45f2fa3",
+      "source": "artifacts/queries/q092.jpg"
+    }
+  ]
+}

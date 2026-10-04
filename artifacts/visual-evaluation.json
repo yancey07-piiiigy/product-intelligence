@@ -1,0 +1,21 @@
+{
+  "expected_uncertain_footwear": 9,
+  "n_evaluated": 9,
+  "complete_uncertain_set": true,
+  "vision_descriptions_generated": 9,
+  "vision_failures": 0,
+  "reused_results": 9,
+  "new_calls_this_run": 0,
+  "total_api_usd_this_run": 0,
+  "total_api_usd_original_generation": 0.0119124,
+  "original_cost_unknown_calls": 0,
+  "mean_api_seconds": 2.411111111111111,
+  "mean_wall_seconds": 2.4130000000000003,
+  "mean_retrieval_plus_visual_seconds": 2.4695788609803553,
+  "human_review_complete": 9,
+  "human_review_field_accuracy": 1.0,
+  "human_review_unsupported_claims": 0,
+  "limitations": "Review fields require a person to inspect each image and description; blank fields are not scored. Photos are transformed catalog images, not independent phone photos.",
+  "model": "openai/gpt-4o-mini",
+  "sample_selection": "All held-out transformed queries classified as footwear but not accepted as exact catalog identities."
+}

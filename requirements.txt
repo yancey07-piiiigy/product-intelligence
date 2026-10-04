@@ -1,0 +1,7 @@
+# Tested with Python 3.12 on macOS arm64. Lock file records the tested environment.
+numpy>=2.0,<3
+Pillow>=11.3,<13
+torch>=2.6,<3
+transformers==4.57.6
+opencv-python-headless>=4.10,<5
+certifi>=2025.1.31

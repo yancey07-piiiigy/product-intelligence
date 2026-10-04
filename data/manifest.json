@@ -1,0 +1,1402 @@
+[
+  {
+    "image": "data/images/49613.jpg",
+    "expected_id": "49613",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "49613",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Multi",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/22984.jpg",
+    "expected_id": "22984",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "22984",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/44205.jpg",
+    "expected_id": "44205",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "44205",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Green",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/1547.jpg",
+    "expected_id": "1547",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "1547",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/35809.jpg",
+    "expected_id": "35809",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "35809",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Red",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/12987.jpg",
+    "expected_id": "12987",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "12987",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/4068.jpg",
+    "expected_id": "4068",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "4068",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/7375.jpg",
+    "expected_id": "7375",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "7375",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/8238.jpg",
+    "expected_id": "8238",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "8238",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/24424.jpg",
+    "expected_id": "24424",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "24424",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/5870.jpg",
+    "expected_id": "5870",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "5870",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/2994.jpg",
+    "expected_id": "2994",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "2994",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/3661.jpg",
+    "expected_id": "3661",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "3661",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/41438.jpg",
+    "expected_id": "41438",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "41438",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/43005.jpg",
+    "expected_id": "43005",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "43005",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Olive",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/56414.jpg",
+    "expected_id": "56414",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "56414",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Spring",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/36331.jpg",
+    "expected_id": "36331",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "36331",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Pink",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/6743.jpg",
+    "expected_id": "6743",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "6743",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/41453.jpg",
+    "expected_id": "41453",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "41453",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/5724.jpg",
+    "expected_id": "5724",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "5724",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/12984.jpg",
+    "expected_id": "12984",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "12984",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/32174.jpg",
+    "expected_id": "32174",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "32174",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/4571.jpg",
+    "expected_id": "4571",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "4571",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/2618.jpg",
+    "expected_id": "2618",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "2618",
+      "masterCategory": "Footwear",
+      "articleType": "Flats",
+      "baseColour": "Silver",
+      "gender": "Women",
+      "season": "Spring",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/34633.jpg",
+    "expected_id": "34633",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "34633",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/32852.jpg",
+    "expected_id": "32852",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "32852",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/35686.jpg",
+    "expected_id": "35686",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "35686",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Navy Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/6345.jpg",
+    "expected_id": "6345",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "6345",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Purple",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/39565.jpg",
+    "expected_id": "39565",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "39565",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/34563.jpg",
+    "expected_id": "34563",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "34563",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/59324.jpg",
+    "expected_id": "59324",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "59324",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/29560.jpg",
+    "expected_id": "29560",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "29560",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/47493.jpg",
+    "expected_id": "47493",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "47493",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Grey",
+      "gender": "Unisex",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/10742.jpg",
+    "expected_id": "10742",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "10742",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Orange",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/22828.jpg",
+    "expected_id": "22828",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "22828",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/18473.jpg",
+    "expected_id": "18473",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "18473",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/5353.jpg",
+    "expected_id": "5353",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "5353",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/12711.jpg",
+    "expected_id": "12711",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "12711",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/33094.jpg",
+    "expected_id": "33094",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "33094",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/15311.jpg",
+    "expected_id": "15311",
+    "split": "calibration",
+    "ground_truth": {
+      "id": "15311",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Beige",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/2822.jpg",
+    "expected_id": "2822",
+    "split": "test",
+    "ground_truth": {
+      "id": "2822",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/26689.jpg",
+    "expected_id": "26689",
+    "split": "test",
+    "ground_truth": {
+      "id": "26689",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/3550.jpg",
+    "expected_id": "3550",
+    "split": "test",
+    "ground_truth": {
+      "id": "3550",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/33520.jpg",
+    "expected_id": "33520",
+    "split": "test",
+    "ground_truth": {
+      "id": "33520",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Charcoal",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/12825.jpg",
+    "expected_id": "12825",
+    "split": "test",
+    "ground_truth": {
+      "id": "12825",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/54068.jpg",
+    "expected_id": "54068",
+    "split": "test",
+    "ground_truth": {
+      "id": "54068",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/31951.jpg",
+    "expected_id": "31951",
+    "split": "test",
+    "ground_truth": {
+      "id": "31951",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/27522.jpg",
+    "expected_id": "27522",
+    "split": "test",
+    "ground_truth": {
+      "id": "27522",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/9219.jpg",
+    "expected_id": "9219",
+    "split": "test",
+    "ground_truth": {
+      "id": "9219",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/22829.jpg",
+    "expected_id": "22829",
+    "split": "test",
+    "ground_truth": {
+      "id": "22829",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Cream",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/31952.jpg",
+    "expected_id": "31952",
+    "split": "test",
+    "ground_truth": {
+      "id": "31952",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/36427.jpg",
+    "expected_id": "36427",
+    "split": "test",
+    "ground_truth": {
+      "id": "36427",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Spring",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/19129.jpg",
+    "expected_id": "19129",
+    "split": "test",
+    "ground_truth": {
+      "id": "19129",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Olive",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/41734.jpg",
+    "expected_id": "41734",
+    "split": "test",
+    "ground_truth": {
+      "id": "41734",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Silver",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/26526.jpg",
+    "expected_id": "26526",
+    "split": "test",
+    "ground_truth": {
+      "id": "26526",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Spring",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/15891.jpg",
+    "expected_id": "15891",
+    "split": "test",
+    "ground_truth": {
+      "id": "15891",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Yellow",
+      "gender": "Unisex",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/4639.jpg",
+    "expected_id": "4639",
+    "split": "test",
+    "ground_truth": {
+      "id": "4639",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/4527.jpg",
+    "expected_id": "4527",
+    "split": "test",
+    "ground_truth": {
+      "id": "4527",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/33836.jpg",
+    "expected_id": "33836",
+    "split": "test",
+    "ground_truth": {
+      "id": "33836",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/53379.jpg",
+    "expected_id": "53379",
+    "split": "test",
+    "ground_truth": {
+      "id": "53379",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Sandals",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/13726.jpg",
+    "expected_id": "13726",
+    "split": "test",
+    "ground_truth": {
+      "id": "13726",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/24463.jpg",
+    "expected_id": "24463",
+    "split": "test",
+    "ground_truth": {
+      "id": "24463",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/45615.jpg",
+    "expected_id": "45615",
+    "split": "test",
+    "ground_truth": {
+      "id": "45615",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "image": "data/images/10517.jpg",
+    "expected_id": "10517",
+    "split": "test",
+    "ground_truth": {
+      "id": "10517",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/9056.jpg",
+    "expected_id": "9056",
+    "split": "test",
+    "ground_truth": {
+      "id": "9056",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/35483.jpg",
+    "expected_id": "35483",
+    "split": "test",
+    "ground_truth": {
+      "id": "35483",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "image": "data/images/35523.jpg",
+    "expected_id": "35523",
+    "split": "test",
+    "ground_truth": {
+      "id": "35523",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Purple",
+      "gender": "Girls",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/13906.jpg",
+    "expected_id": "13906",
+    "split": "test",
+    "ground_truth": {
+      "id": "13906",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/34757.jpg",
+    "expected_id": "34757",
+    "split": "test",
+    "ground_truth": {
+      "id": "34757",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/59187.jpg",
+    "expected_id": "59187",
+    "split": "test",
+    "ground_truth": {
+      "id": "59187",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Maroon",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/41727.jpg",
+    "expected_id": "41727",
+    "split": "test",
+    "ground_truth": {
+      "id": "41727",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/18557.jpg",
+    "expected_id": "18557",
+    "split": "test",
+    "ground_truth": {
+      "id": "18557",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/31210.jpg",
+    "expected_id": "31210",
+    "split": "test",
+    "ground_truth": {
+      "id": "31210",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/12961.jpg",
+    "expected_id": "12961",
+    "split": "test",
+    "ground_truth": {
+      "id": "12961",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/39955.jpg",
+    "expected_id": "39955",
+    "split": "test",
+    "ground_truth": {
+      "id": "39955",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/22963.jpg",
+    "expected_id": "22963",
+    "split": "test",
+    "ground_truth": {
+      "id": "22963",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Navy Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/45412.jpg",
+    "expected_id": "45412",
+    "split": "test",
+    "ground_truth": {
+      "id": "45412",
+      "masterCategory": "Footwear",
+      "articleType": "Flats",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/17004.jpg",
+    "expected_id": "17004",
+    "split": "test",
+    "ground_truth": {
+      "id": "17004",
+      "masterCategory": "Footwear",
+      "articleType": "Flats",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/16974.jpg",
+    "expected_id": "16974",
+    "split": "test",
+    "ground_truth": {
+      "id": "16974",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Navy Blue",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/23833.jpg",
+    "expected_id": "23833",
+    "split": "test",
+    "ground_truth": {
+      "id": "23833",
+      "masterCategory": "Footwear",
+      "articleType": "Flats",
+      "baseColour": "Silver",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/53777.jpg",
+    "expected_id": "53777",
+    "split": "test",
+    "ground_truth": {
+      "id": "53777",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/15384.jpg",
+    "expected_id": "15384",
+    "split": "test",
+    "ground_truth": {
+      "id": "15384",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/35056.jpg",
+    "expected_id": "35056",
+    "split": "test",
+    "ground_truth": {
+      "id": "35056",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "image": "data/images/33854.jpg",
+    "expected_id": "33854",
+    "split": "test",
+    "ground_truth": {
+      "id": "33854",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/35492.jpg",
+    "expected_id": "35492",
+    "split": "test",
+    "ground_truth": {
+      "id": "35492",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "image": "data/images/23249.jpg",
+    "expected_id": "23249",
+    "split": "test",
+    "ground_truth": {
+      "id": "23249",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "image": "data/images/15857.jpg",
+    "expected_id": "15857",
+    "split": "test",
+    "ground_truth": {
+      "id": "15857",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Blue",
+      "gender": "Unisex",
+      "season": "Spring",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/30249.jpg",
+    "expected_id": "30249",
+    "split": "test",
+    "ground_truth": {
+      "id": "30249",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Orange",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/5383.jpg",
+    "expected_id": "5383",
+    "split": "test",
+    "ground_truth": {
+      "id": "5383",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/15903.jpg",
+    "expected_id": "15903",
+    "split": "test",
+    "ground_truth": {
+      "id": "15903",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Unisex",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/5568.jpg",
+    "expected_id": "5568",
+    "split": "test",
+    "ground_truth": {
+      "id": "5568",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/23877.jpg",
+    "expected_id": "23877",
+    "split": "test",
+    "ground_truth": {
+      "id": "23877",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/8914.jpg",
+    "expected_id": "8914",
+    "split": "test",
+    "ground_truth": {
+      "id": "8914",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/34735.jpg",
+    "expected_id": "34735",
+    "split": "test",
+    "ground_truth": {
+      "id": "34735",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/56971.jpg",
+    "expected_id": "56971",
+    "split": "test",
+    "ground_truth": {
+      "id": "56971",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/10111.jpg",
+    "expected_id": "10111",
+    "split": "test",
+    "ground_truth": {
+      "id": "10111",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Silver",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/20950.jpg",
+    "expected_id": "20950",
+    "split": "test",
+    "ground_truth": {
+      "id": "20950",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/43337.jpg",
+    "expected_id": "43337",
+    "split": "test",
+    "ground_truth": {
+      "id": "43337",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "image": "data/images/46613.jpg",
+    "expected_id": "46613",
+    "split": "test",
+    "ground_truth": {
+      "id": "46613",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "image": "data/images/6667.jpg",
+    "expected_id": "6667",
+    "split": "test",
+    "ground_truth": {
+      "id": "6667",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  }
+]

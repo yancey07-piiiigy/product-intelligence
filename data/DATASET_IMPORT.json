@@ -1,0 +1,12 @@
+{
+  "source_directory": "/Users/yancey/Documents/NTU/PE6201/Assignment/End of Class Project/archive",
+  "copied_from": "top-level styles.csv and images; duplicate myntradataset folder omitted",
+  "styles_sha256": "cd86bd2d71b4065ed91786a52aa6ccc0eed343949791c663be9af35f105a128c",
+  "catalog_rows": 44446,
+  "footwear_rows": 9222,
+  "image_files": 44441,
+  "footwear_images_missing": 0,
+  "name_rows_repaired_by_importer": 22,
+  "evaluation_manifest": "40 calibration and 60 test images; automatically selected, labels require manual review",
+  "performance_evaluated": false
+}

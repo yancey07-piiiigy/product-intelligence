@@ -1,0 +1,50 @@
+.scope-rejection {
+  display: flex;
+  flex: 1;
+  min-height: 330px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 35px 24px;
+  text-align: center;
+  color: #8f7a46;
+}
+
+.scope-rejection h3 {
+  margin: 18px 0 8px;
+  color: #6f603c;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.scope-rejection p {
+  max-width: 440px;
+  margin: 0 0 22px;
+  color: #8b8062;
+  font-size: 11px;
+  line-height: 2;
+}
+
+.scope-rejection small {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 22px;
+  color: #9ca58f;
+  font-size: 9px;
+}
+
+.candidate-summary-action {
+  padding-top: 12px;
+}
+
+.candidate-summary-action .secondary {
+  margin-top: 10px;
+}
+
+.candidate-disclaimer {
+  margin: 12px 0 0;
+  color: #92763d;
+  font-size: 9px;
+  line-height: 1.8;
+}

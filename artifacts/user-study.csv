@@ -1,0 +1,41 @@
+participant_code,pair_id,task_id,seconds,selected_product_id,season_answer,usage_answer,abstained
+P01,C,C_A,5,7249,Fall,Casual,0
+P01,C,C_B,24,45625,Winter,Casual,0
+P01,D,D_A,31,47179,Summer,Casual,0
+P01,D,D_B,16,24695,Summer,Casual,0
+P01,F,F_A,18,33702,Unknown,Smart Casual,0
+P01,F,F_B,36,10285,Fall,Formal,0
+P01,S,S_A,28,9120,Fall,Sports,0
+P01,S,S_B,14,34643,Fall,Sports,0
+P02,D,D_B,39,19139,Summer,Casual,0
+P02,D,D_A,17,47179,Summer,Casual,0
+P02,F,F_B,15,10281,Fall,Formal,0
+P02,F,F_A,33,33702,Winter,Smart Casual,0
+P02,S,S_B,27,34643,Fall,Sports,0
+P02,S,S_A,12,9120,Unknown,Sports,0
+P02,C,C_B,19,45625,Winter,Casual,0
+P02,C,C_A,35,7249,Fall,Casual,0
+P03,F,F_A,16,33702,Winter,Smart Casual,0
+P03,F,F_B,30,10281,Fall,Formal,0
+P03,S,S_A,38,29256,Fall,Sports,0
+P03,S,S_B,17,34643,Fall,Sports,0
+P03,C,C_A,14,7249,Fall,Casual,0
+P03,C,C_B,26,45625,Unknown,Casual,0
+P03,D,D_A,34,47179,Summer,Casual,0
+P03,D,D_B,18,24695,Summer,Casual,0
+P04,S,S_B,32,34643,Fall,Sports,0
+P04,S,S_A,15,9120,Fall,Sports,0
+P04,C,C_B,20,45625,Winter,Casual,0
+P04,C,C_A,51,7249,Fall,Smart Casual,0
+P04,D,D_B,29,24695,Summer,Casual,0
+P04,D,D_A,13,47179,Unknown,Casual,0
+P04,F,F_B,17,10281,Fall,Formal,0
+P04,F,F_A,37,33702,Winter,Smart Casual,0
+P05,C,C_A,12,7249,Fall,Casual,0
+P05,C,C_B,25,5674,Winter,Casual,0
+P05,D,D_A,7,47179,Summer,Casual,0
+P05,D,D_B,16,24695,Summer,Casual,0
+P05,F,F_A,14,33702,Winter,Smart Casual,0
+P05,F,F_B,31,10281,Unknown,Formal,0
+P05,S,S_A,36,9120,Fall,Sports,0
+P05,S,S_B,11,34643,Fall,Sports,0

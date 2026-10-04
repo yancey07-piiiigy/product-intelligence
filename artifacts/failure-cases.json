@@ -1,0 +1,933 @@
+[
+  {
+    "query_id": "q039",
+    "source_id": "43371",
+    "expected_id": "43371",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/43371.jpg",
+    "image": "artifacts/queries/q039.jpg",
+    "sha256": "7ade7e15b6903fdf4fd7264ae02ff423ad9e49c6b884ae7af4c1a822f7d9c53b",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "13118",
+    "predicted_facts": {
+      "id": "13118",
+      "productDisplayName": "Numero Uno Men White Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "score": 0.345647,
+    "margin": 0.076752,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.267652,
+      "other_text_similarity": 0.210346,
+      "domain_margin": 0.057307
+    },
+    "top3": [
+      "13118",
+      "45412",
+      "3575"
+    ],
+    "seconds": 0.05602012504823506,
+    "clip_score": 0.885491,
+    "geometric_inliers": 4,
+    "accepted": true
+  },
+  {
+    "query_id": "q077",
+    "source_id": "12521",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/12521.jpg",
+    "image": "artifacts/queries/q077.jpg",
+    "sha256": "2721030d986b17b4938923692731f8222d44872434a2e360e7e481200e355d78",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "12517",
+    "predicted_facts": {
+      "id": "12517",
+      "productDisplayName": "Red Tape Men Formal Black Formal Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    },
+    "score": 0.420999,
+    "margin": 0.004952,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.24963,
+      "other_text_similarity": 0.201962,
+      "domain_margin": 0.047668
+    },
+    "top3": [
+      "12517",
+      "9044",
+      "10275"
+    ],
+    "seconds": 0.057630958035588264,
+    "clip_score": 0.92694,
+    "geometric_inliers": 7,
+    "accepted": false
+  },
+  {
+    "query_id": "q078",
+    "source_id": "15524",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/15524.jpg",
+    "image": "artifacts/queries/q078.jpg",
+    "sha256": "1dd5097264218ff8c3c9e789f608eb09fb03c064b258ab93765b082fb80c02d8",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "5341",
+    "predicted_facts": {
+      "id": "5341",
+      "productDisplayName": "Carlton London Women Silver Floral Print Sandals",
+      "masterCategory": "Footwear",
+      "articleType": "Flats",
+      "baseColour": "Silver",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.283165,
+    "margin": 0.001249,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.277969,
+      "other_text_similarity": 0.215403,
+      "domain_margin": 0.062566
+    },
+    "top3": [
+      "5341",
+      "20272",
+      "22276"
+    ],
+    "seconds": 0.05317329103127122,
+    "clip_score": 0.943884,
+    "geometric_inliers": 0,
+    "accepted": false
+  },
+  {
+    "query_id": "q079",
+    "source_id": "24429",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/24429.jpg",
+    "image": "artifacts/queries/q079.jpg",
+    "sha256": "266144a4c3bf28b5c1ce984d6825773139637d3550d5fac9c66e912b31daa80c",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "19349",
+    "predicted_facts": {
+      "id": "19349",
+      "productDisplayName": "Numero Uno Men Fashion Black Sports Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "score": 0.326778,
+    "margin": 0.002642,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.23404,
+      "other_text_similarity": 0.187861,
+      "domain_margin": 0.046179
+    },
+    "top3": [
+      "19349",
+      "58200",
+      "15260"
+    ],
+    "seconds": 0.061634209007024765,
+    "clip_score": 0.855926,
+    "geometric_inliers": 4,
+    "accepted": false
+  },
+  {
+    "query_id": "q080",
+    "source_id": "51754",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/51754.jpg",
+    "image": "artifacts/queries/q080.jpg",
+    "sha256": "8e7d1ddba44c2b705fa365e90426f517fcd14be48314119912ba7d5cfc7dfe42",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Pink",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "44214",
+    "predicted_facts": {
+      "id": "44214",
+      "productDisplayName": "iPanema Women Purple Flip Flops",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "score": 0.27562,
+    "margin": 0.003106,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.258432,
+      "other_text_similarity": 0.20576,
+      "domain_margin": 0.052671
+    },
+    "top3": [
+      "44214",
+      "3833",
+      "35785"
+    ],
+    "seconds": 0.052292208885774016,
+    "clip_score": 0.918734,
+    "geometric_inliers": 2,
+    "accepted": false
+  },
+  {
+    "query_id": "q081",
+    "source_id": "24180",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/24180.jpg",
+    "image": "artifacts/queries/q081.jpg",
+    "sha256": "40ba8d6f7392280980f9f590ab4e56065c4b6ed2166b24049ca776c42f0bbf9f",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "22237",
+    "predicted_facts": {
+      "id": "22237",
+      "productDisplayName": "ID Men Red Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Red",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.320696,
+    "margin": 0.015454,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.256537,
+      "other_text_similarity": 0.216793,
+      "domain_margin": 0.039743
+    },
+    "top3": [
+      "22237",
+      "4455",
+      "35463"
+    ],
+    "seconds": 0.06010620784945786,
+    "clip_score": 0.803836,
+    "geometric_inliers": 5,
+    "accepted": false
+  },
+  {
+    "query_id": "q082",
+    "source_id": "28634",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/28634.jpg",
+    "image": "artifacts/queries/q082.jpg",
+    "sha256": "0ea1a3e0bf6e8f52ab726725d63d2dfa1bac46a6a0d69d81b33fd2d558d80668",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "28635",
+    "predicted_facts": {
+      "id": "28635",
+      "productDisplayName": "Nike Men Free TR2 White Sports Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "score": 0.353094,
+    "margin": 0.005795,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.251585,
+      "other_text_similarity": 0.196554,
+      "domain_margin": 0.055031
+    },
+    "top3": [
+      "28635",
+      "25480",
+      "38646"
+    ],
+    "seconds": 0.05785241606645286,
+    "clip_score": 0.826979,
+    "geometric_inliers": 6,
+    "accepted": false
+  },
+  {
+    "query_id": "q083",
+    "source_id": "46115",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/46115.jpg",
+    "image": "artifacts/queries/q083.jpg",
+    "sha256": "a347080185aa08ee081c9545e8ee1e8e911a3c2fdbbb7d8311882320aa687e3e",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Olive",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "50747",
+    "predicted_facts": {
+      "id": "50747",
+      "productDisplayName": "Red Chief Men Mushroom Brown Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Mushroom Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "score": 0.406376,
+    "margin": 0.035336,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.235188,
+      "other_text_similarity": 0.195711,
+      "domain_margin": 0.039477
+    },
+    "top3": [
+      "50747",
+      "54738",
+      "20711"
+    ],
+    "seconds": 0.05346583295613527,
+    "clip_score": 0.829588,
+    "geometric_inliers": 6,
+    "accepted": false
+  },
+  {
+    "query_id": "q084",
+    "source_id": "22832",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/22832.jpg",
+    "image": "artifacts/queries/q084.jpg",
+    "sha256": "a3be158df2c78d8aea1ed1c85b295243d5fe8e8d6462e3db497b022e09f93ae1",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "22821",
+    "predicted_facts": {
+      "id": "22821",
+      "productDisplayName": "Woodland Men Brown Trekking Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    },
+    "score": 0.303989,
+    "margin": 0.004084,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.242419,
+      "other_text_similarity": 0.188767,
+      "domain_margin": 0.053652
+    },
+    "top3": [
+      "22821",
+      "5685",
+      "3452"
+    ],
+    "seconds": 0.06012575002387166,
+    "clip_score": 0.869706,
+    "geometric_inliers": 4,
+    "accepted": false
+  },
+  {
+    "query_id": "q085",
+    "source_id": "43375",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/43375.jpg",
+    "image": "artifacts/queries/q085.jpg",
+    "sha256": "7cbd906a43c7af0121c3c53774a290336366d3c050918cc95260efaf2a997ed4",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "44722",
+    "predicted_facts": {
+      "id": "44722",
+      "productDisplayName": "Lotto Women Red & Orange Disco Holic Flip Flops",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Orange",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.380874,
+    "margin": 0.006895,
+    "correct": false,
+    "is_footwear": true,
+    "domain": {
+      "is_footwear": true,
+      "footwear_text_similarity": 0.276196,
+      "other_text_similarity": 0.219518,
+      "domain_margin": 0.056678
+    },
+    "top3": [
+      "44722",
+      "58328",
+      "17356"
+    ],
+    "seconds": 0.05292887496761978,
+    "clip_score": 0.904997,
+    "geometric_inliers": 5,
+    "accepted": false
+  },
+  {
+    "query_id": "q092",
+    "source_id": "25295",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/25295.jpg",
+    "image": "artifacts/queries/q092.jpg",
+    "sha256": "477eb1224a456b7fb8031807bada4817fd3644f956ffeaf7f177eb03a6abb585",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "8574",
+    "predicted_facts": {
+      "id": "8574",
+      "productDisplayName": "Crocs Dora Boots Pink Sandals",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Pink",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "score": 0.247213,
+    "margin": 0.000252,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.207991,
+      "other_text_similarity": 0.253653,
+      "domain_margin": -0.045661
+    },
+    "top3": [
+      "8574",
+      "15864",
+      "46861"
+    ],
+    "seconds": 0.0634092919062823,
+    "clip_score": 0.824042,
+    "geometric_inliers": 2,
+    "accepted": false
+  },
+  {
+    "query_id": "q093",
+    "source_id": "26103",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/26103.jpg",
+    "image": "artifacts/queries/q093.jpg",
+    "sha256": "4870bb71170331f57d7c49cb4149fd33dab6c4e2c401dc58a4b3f44d6f165b52",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "35671",
+    "predicted_facts": {
+      "id": "35671",
+      "productDisplayName": "U.S. Polo Assn. Men Blue Boat Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Spring",
+      "usage": "Casual"
+    },
+    "score": 0.298358,
+    "margin": 0.001435,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.189607,
+      "other_text_similarity": 0.237968,
+      "domain_margin": -0.048361
+    },
+    "top3": [
+      "35671",
+      "5289",
+      "2391"
+    ],
+    "seconds": 0.06500737508758903,
+    "clip_score": 0.72786,
+    "geometric_inliers": 4,
+    "accepted": false
+  },
+  {
+    "query_id": "q094",
+    "source_id": "34865",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/34865.jpg",
+    "image": "artifacts/queries/q094.jpg",
+    "sha256": "72507fcc1a8877e010204b8c23b1e8af5111a62150bd21ea230de692a42a3534",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "35165",
+    "predicted_facts": {
+      "id": "35165",
+      "productDisplayName": "Coolers Men Black Sandals",
+      "masterCategory": "Footwear",
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "score": 0.242786,
+    "margin": 0.004845,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.214204,
+      "other_text_similarity": 0.228696,
+      "domain_margin": -0.014491
+    },
+    "top3": [
+      "35165",
+      "33093",
+      "30244"
+    ],
+    "seconds": 0.06309891608543694,
+    "clip_score": 0.809288,
+    "geometric_inliers": 2,
+    "accepted": false
+  },
+  {
+    "query_id": "q095",
+    "source_id": "58549",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/58549.jpg",
+    "image": "artifacts/queries/q095.jpg",
+    "sha256": "accfbb2123216df99ed531b09c9e621752eb50e29fb8e16f8c01c2faa0d42c18",
+    "ground_truth": {
+      "articleType": "Sunglasses",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "54133",
+    "predicted_facts": {
+      "id": "54133",
+      "productDisplayName": "Rocia Women Black Heels",
+      "masterCategory": "Footwear",
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "score": 0.256703,
+    "margin": 0.00066,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.199531,
+      "other_text_similarity": 0.276215,
+      "domain_margin": -0.076684
+    },
+    "top3": [
+      "54133",
+      "51750",
+      "53456"
+    ],
+    "seconds": 0.057873165933415294,
+    "clip_score": 0.855675,
+    "geometric_inliers": 2,
+    "accepted": false
+  },
+  {
+    "query_id": "q096",
+    "source_id": "33415",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/33415.jpg",
+    "image": "artifacts/queries/q096.jpg",
+    "sha256": "69b3c753d9c8a693e951b307548e58fcc640f4b62dc8671e007089501351a3b1",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "43889",
+    "predicted_facts": {
+      "id": "43889",
+      "productDisplayName": "Puma Women Purple Wynne Shoes",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.255649,
+    "margin": 0.000155,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.215669,
+      "other_text_similarity": 0.265173,
+      "domain_margin": -0.049505
+    },
+    "top3": [
+      "43889",
+      "23796",
+      "34458"
+    ],
+    "seconds": 0.06254487484693527,
+    "clip_score": 0.852165,
+    "geometric_inliers": 2,
+    "accepted": false
+  },
+  {
+    "query_id": "q097",
+    "source_id": "58805",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/58805.jpg",
+    "image": "artifacts/queries/q097.jpg",
+    "sha256": "8f2a9bd30e6597dd6f12c465ec7080a42a56d1e3af1fd7a05d70ff93e678e697",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "5289",
+    "predicted_facts": {
+      "id": "5289",
+      "productDisplayName": "Lee Cooper Men's Semi Formal Black Shoe",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.235377,
+    "margin": 0.018037,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.17812,
+      "other_text_similarity": 0.232799,
+      "domain_margin": -0.054679
+    },
+    "top3": [
+      "5289",
+      "2391",
+      "2383"
+    ],
+    "seconds": 0.059323291992768645,
+    "clip_score": 0.78459,
+    "geometric_inliers": 0,
+    "accepted": false
+  },
+  {
+    "query_id": "q098",
+    "source_id": "15151",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/15151.jpg",
+    "image": "artifacts/queries/q098.jpg",
+    "sha256": "f2cff3b3be25cca81cdf6fc037feb28f82aab5c1aa029efec7e3a9162a6256ff",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Purple",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "5289",
+    "predicted_facts": {
+      "id": "5289",
+      "productDisplayName": "Lee Cooper Men's Semi Formal Black Shoe",
+      "masterCategory": "Footwear",
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.244644,
+    "margin": 0.020945,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.169065,
+      "other_text_similarity": 0.243837,
+      "domain_margin": -0.074771
+    },
+    "top3": [
+      "5289",
+      "2391",
+      "2383"
+    ],
+    "seconds": 0.055727917002514005,
+    "clip_score": 0.81548,
+    "geometric_inliers": 3,
+    "accepted": false
+  },
+  {
+    "query_id": "q099",
+    "source_id": "46318",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/46318.jpg",
+    "image": "artifacts/queries/q099.jpg",
+    "sha256": "5128102e61e4591d6025ba3e0205d732a768560a32c0e99718aeefd0114c8a41",
+    "ground_truth": {
+      "articleType": "Watches",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "11853",
+    "predicted_facts": {
+      "id": "11853",
+      "productDisplayName": "Playboy Men Black Flip Flops",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.308448,
+    "margin": 0.017011,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.195526,
+      "other_text_similarity": 0.262201,
+      "domain_margin": -0.066675
+    },
+    "top3": [
+      "11853",
+      "7378",
+      "34522"
+    ],
+    "seconds": 0.05868787504732609,
+    "clip_score": 0.761493,
+    "geometric_inliers": 4,
+    "accepted": false
+  },
+  {
+    "query_id": "q100",
+    "source_id": "10670",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/10670.jpg",
+    "image": "artifacts/queries/q100.jpg",
+    "sha256": "b2b3f739d906fe431f4e5141b4e0ca050f92a3dfd92b931a26abc0b84d2cf7eb",
+    "ground_truth": {
+      "articleType": "Tshirts",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    },
+    "variant": "transformed",
+    "method": "clip",
+    "predicted_id": "8245",
+    "predicted_facts": {
+      "id": "8245",
+      "productDisplayName": "Lotto Women's Juicy Black Flip Flop",
+      "masterCategory": "Footwear",
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    },
+    "score": 0.282737,
+    "margin": 0.030968,
+    "correct": false,
+    "is_footwear": false,
+    "domain": {
+      "is_footwear": false,
+      "footwear_text_similarity": 0.171491,
+      "other_text_similarity": 0.221892,
+      "domain_margin": -0.050401
+    },
+    "top3": [
+      "8245",
+      "2220",
+      "2213"
+    ],
+    "seconds": 0.05866237496957183,
+    "clip_score": 0.709125,
+    "geometric_inliers": 4,
+    "accepted": false
+  }
+]

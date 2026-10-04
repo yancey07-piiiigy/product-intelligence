@@ -1,0 +1,236 @@
+[
+  {
+    "query_id": "q077",
+    "image": "artifacts/queries/q077.jpg",
+    "image_sha256": "3dc612a5979de885a7b6b4d9e556f58b529971c4dcbdcc9f9177f06fa8f069d7",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: dress shoe; Colour: black; Closure: slip-on; Visible details: features a low heel and decorative straps across the upper..",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.001323,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 40,
+        "total_tokens": 8700
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 1.559
+    },
+    "wall_seconds": 1.571,
+    "retrieval_seconds": 0.057630958035588264,
+    "end_to_end_seconds": 1.6286309580355882
+  },
+  {
+    "query_id": "q078",
+    "image": "artifacts/queries/q078.jpg",
+    "image_sha256": "9c0e819939c197eff3e524352c8f7ab226bb4b99ee019db27e211e5be83649dc",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: sandal; Colour: light grey; Closure: ankle strap; Visible details: thong style with a flat sole and decorative elements..",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013236,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 41,
+        "total_tokens": 8701
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 3.247
+    },
+    "wall_seconds": 3.248,
+    "retrieval_seconds": 0.05317329103127122,
+    "end_to_end_seconds": 3.3011732910312714
+  },
+  {
+    "query_id": "q079",
+    "image": "artifacts/queries/q079.jpg",
+    "image_sha256": "069c65c5ba04ed3250edec96076a580264a37234f71f9ead64efe5f66f120557",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: sneaker; Colour: black with white accents; Closure: laces; Visible details: three white stripes on the side, cushioned sole.",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013236,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 41,
+        "total_tokens": 8701
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 2.832
+    },
+    "wall_seconds": 2.832,
+    "retrieval_seconds": 0.061634209007024765,
+    "end_to_end_seconds": 2.8936342090070246
+  },
+  {
+    "query_id": "q080",
+    "image": "artifacts/queries/q080.jpg",
+    "image_sha256": "6c0b76f8b744367ea9e8f795c4db1935cdf46ce780ebad68b0289f5f52bf5141",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: ballet flats; Colour: pink; Closure: slip-on; Visible details: features a bow on the front and a rounded toe..",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013236,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 41,
+        "total_tokens": 8701
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 2.458
+    },
+    "wall_seconds": 2.458,
+    "retrieval_seconds": 0.052292208885774016,
+    "end_to_end_seconds": 2.510292208885774
+  },
+  {
+    "query_id": "q081",
+    "image": "artifacts/queries/q081.jpg",
+    "image_sha256": "18fbab88576b3dd3be2df3836fd6841f3403808d7d1a72c9e102454017bca2f5",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: high-top sneakers; Colour: black, red, white; Closure: lace-up; Visible details: white rubber toe cap, colorful graphic on the side.",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013248,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 43,
+        "total_tokens": 8703
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 2.759
+    },
+    "wall_seconds": 2.76,
+    "retrieval_seconds": 0.06010620784945786,
+    "end_to_end_seconds": 2.8201062078494576
+  },
+  {
+    "query_id": "q082",
+    "image": "artifacts/queries/q082.jpg",
+    "image_sha256": "21e048d1fbc4e9fcd9cd92f101aa38c640bfb5f6a239d9d201716ad8094bd1aa",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: sneaker; Colour: white, black, blue; Closure: lace-up; Visible details: features a prominent logo and a cushioned sole..",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013248,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 43,
+        "total_tokens": 8703
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 1.837
+    },
+    "wall_seconds": 1.838,
+    "retrieval_seconds": 0.05785241606645286,
+    "end_to_end_seconds": 1.895852416066453
+  },
+  {
+    "query_id": "q083",
+    "image": "artifacts/queries/q083.jpg",
+    "image_sha256": "81c6bc2aa80333fba223221f9381e3f2190ee2c66a03f62204d31f2cfba2345f",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: sneaker; Colour: olive green and white; Closure: laces; Visible details: textured upper, white sole, casual style.",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.001323,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 40,
+        "total_tokens": 8700
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 2.417
+    },
+    "wall_seconds": 2.418,
+    "retrieval_seconds": 0.05346583295613527,
+    "end_to_end_seconds": 2.4714658329561354
+  },
+  {
+    "query_id": "q084",
+    "image": "artifacts/queries/q084.jpg",
+    "image_sha256": "bbeefd9e366ff0e2819120247bdbf6bf76c26a5809674eed02ea0353e8273ebf",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: Boots; Colour: Brown and black; Closure: Laces; Visible details: Chunky sole, padded collar, and reinforced toe area..",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013242,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 42,
+        "total_tokens": 8702
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 3.082
+    },
+    "wall_seconds": 3.083,
+    "retrieval_seconds": 0.06012575002387166,
+    "end_to_end_seconds": 3.143125750023872
+  },
+  {
+    "query_id": "q085",
+    "image": "artifacts/queries/q085.jpg",
+    "image_sha256": "3148dcea165f72422377a509f0778180ce225d44ab7f9fff2fa7e4d6ed7a3810",
+    "model": "openai/gpt-4o-mini",
+    "observation": {
+      "mode": "visual_observation",
+      "scope": "uploaded_image",
+      "text": "Shoe type: flip-flop; Colour: green; Closure: open-toe; Visible details: thin straps, flat sole, casual design.",
+      "warning": "AI observations of your uploaded photo may be inaccurate. Product identity, brand, materials and specifications remain unconfirmed.",
+      "api_usd": 0.0013218,
+      "usage": {
+        "input_tokens": 8660,
+        "output_tokens": 38,
+        "total_tokens": 8698
+      },
+      "identity_confirmed": false,
+      "failure_reason": null,
+      "cost_source": "provider_reported",
+      "model": "openai/gpt-4o-mini",
+      "api_seconds": 1.509
+    },
+    "wall_seconds": 1.509,
+    "retrieval_seconds": 0.05292887496761978,
+    "end_to_end_seconds": 1.5619288749676197
+  }
+]

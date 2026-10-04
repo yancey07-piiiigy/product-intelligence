@@ -1,0 +1,1702 @@
+[
+  {
+    "query_id": "q001",
+    "source_id": "4524",
+    "expected_id": "4524",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/4524.jpg",
+    "image": "artifacts/queries/q001.jpg",
+    "sha256": "9b24ff263b18a4faaad53d976d09b78c1105e4fd7d086ccc16b64c8950f71820",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q002",
+    "source_id": "24691",
+    "expected_id": "24691",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/24691.jpg",
+    "image": "artifacts/queries/q002.jpg",
+    "sha256": "e6663bcb3482a565bd0f5c41f81f053ab1869e2b421c4c7662d6bf045bb20afb",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q003",
+    "source_id": "56961",
+    "expected_id": "56961",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/56961.jpg",
+    "image": "artifacts/queries/q003.jpg",
+    "sha256": "68d8c12e4611c420549dd1b5284da2b3f2a83b0b9ac1c7fe20258d8e3fccab8a",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q004",
+    "source_id": "7881",
+    "expected_id": "7881",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/7881.jpg",
+    "image": "artifacts/queries/q004.jpg",
+    "sha256": "0c613947c9caa1e17d48ca602723eaa9ef0b0d97238c12bde1934bb68cfd60e3",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q005",
+    "source_id": "35425",
+    "expected_id": "35425",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/35425.jpg",
+    "image": "artifacts/queries/q005.jpg",
+    "sha256": "5f67dd2a1831a7f3062146840aa217211a4ded6353d03862aa27d61d85f28544",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q006",
+    "source_id": "6382",
+    "expected_id": "6382",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/6382.jpg",
+    "image": "artifacts/queries/q006.jpg",
+    "sha256": "edc0e417a7f5379671e452d492def90daab4f9ec2a7e5632cad9145fdfe7b416",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Navy Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q007",
+    "source_id": "33118",
+    "expected_id": "33118",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/33118.jpg",
+    "image": "artifacts/queries/q007.jpg",
+    "sha256": "2e1fa4f24bbde7c44427ca0ef2a78498703c59cc76ec4fca9116984822334136",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Bronze",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q008",
+    "source_id": "44454",
+    "expected_id": "44454",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/44454.jpg",
+    "image": "artifacts/queries/q008.jpg",
+    "sha256": "4bda0c0eaa6e0b04d58b5e58930449d31b5cdb3b0baa78d4901ffa1a7805f62b",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q009",
+    "source_id": "23250",
+    "expected_id": "23250",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/23250.jpg",
+    "image": "artifacts/queries/q009.jpg",
+    "sha256": "671a1659cb410ec605764476a3a29a73c64de98133dc44885cd64b04869a5b88",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q010",
+    "source_id": "47600",
+    "expected_id": "47600",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/47600.jpg",
+    "image": "artifacts/queries/q010.jpg",
+    "sha256": "e1c0b8e5f4469d840f206491d844db6ddfe199b1c96b7a4fad22690d71a7d24a",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q011",
+    "source_id": "59143",
+    "expected_id": "59143",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/59143.jpg",
+    "image": "artifacts/queries/q011.jpg",
+    "sha256": "65589b36d3f829737013c3c0686c59c76be99654a494af8bc592ed4ba9aee9aa",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q012",
+    "source_id": "57475",
+    "expected_id": "57475",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/57475.jpg",
+    "image": "artifacts/queries/q012.jpg",
+    "sha256": "4a79c42924986af5b290608a0feff88461d34a6d265c4798eb8e7d696991496f",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q013",
+    "source_id": "59025",
+    "expected_id": "59025",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/59025.jpg",
+    "image": "artifacts/queries/q013.jpg",
+    "sha256": "831343eedb79f5d0db7f58dd5cc3b646b7dc45feeea47e9c79c0201ad5d92b48",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q014",
+    "source_id": "5345",
+    "expected_id": "5345",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/5345.jpg",
+    "image": "artifacts/queries/q014.jpg",
+    "sha256": "eee8c1a2395cb94d9dd05fbfddfdf522f03b39607c53293f077e560f1c936007",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q015",
+    "source_id": "45351",
+    "expected_id": "45351",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/45351.jpg",
+    "image": "artifacts/queries/q015.jpg",
+    "sha256": "c5db9b59916b07cfc20e53c32d81142c50d6212c192b8358a6c1a86951f14f32",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q016",
+    "source_id": "31974",
+    "expected_id": "31974",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/31974.jpg",
+    "image": "artifacts/queries/q016.jpg",
+    "sha256": "b55e58db6e87344a160a4b96ef908a50e80f05e2508ca36bc337fd67ecdb44df",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q017",
+    "source_id": "6647",
+    "expected_id": "6647",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/6647.jpg",
+    "image": "artifacts/queries/q017.jpg",
+    "sha256": "a3bc8ecd1a446f7f47a426855081859d5d965dc660bf2afb7ab464eacd7214d1",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q018",
+    "source_id": "49419",
+    "expected_id": "49419",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/49419.jpg",
+    "image": "artifacts/queries/q018.jpg",
+    "sha256": "90f7d4af65a07c15f7fbf42d5e65187f44bd360d5f8a4fd51037b8534d59ca4f",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Rust",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q019",
+    "source_id": "33712",
+    "expected_id": "33712",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/33712.jpg",
+    "image": "artifacts/queries/q019.jpg",
+    "sha256": "460b78ac5bbbd727325733526d08fd3cdac5585778df97a7f099413cfe1f6b82",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Red",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q020",
+    "source_id": "7220",
+    "expected_id": "7220",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/7220.jpg",
+    "image": "artifacts/queries/q020.jpg",
+    "sha256": "50b90ae50371d0dfb11237901f3248dd0cab4a39003e1338d01bb92b073b5b22",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q021",
+    "source_id": "59945",
+    "expected_id": "59945",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/59945.jpg",
+    "image": "artifacts/queries/q021.jpg",
+    "sha256": "aea762ffc6f9ea86c84b141226d8ff8e9a0851077b720ff14f5fe39241b42485",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q022",
+    "source_id": "11858",
+    "expected_id": "11858",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/11858.jpg",
+    "image": "artifacts/queries/q022.jpg",
+    "sha256": "39935525b81572db64cb81ecd1669caac4bd26cc96586695bac1cf16c0b52d60",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q023",
+    "source_id": "5387",
+    "expected_id": "5387",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/5387.jpg",
+    "image": "artifacts/queries/q023.jpg",
+    "sha256": "056cf7556f3f8ed97b6ded17d567e55cf23a19c1122a670869a4b003094a4ad8",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q024",
+    "source_id": "54530",
+    "expected_id": "54530",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/54530.jpg",
+    "image": "artifacts/queries/q024.jpg",
+    "sha256": "9461303cd2ee4ecfa6dcb8514d249e911ef74a5dfb34efb4327a8262680def50",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q025",
+    "source_id": "11927",
+    "expected_id": "11927",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/11927.jpg",
+    "image": "artifacts/queries/q025.jpg",
+    "sha256": "51dad71040645175f98c625535a70212064bd4177a961bd1bd741b3904215d56",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q026",
+    "source_id": "15245",
+    "expected_id": "15245",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/15245.jpg",
+    "image": "artifacts/queries/q026.jpg",
+    "sha256": "40ebdbf84196f0a8c1332f2b3c372b31d38b78429e7093a9dbbefc990772cc4e",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q027",
+    "source_id": "7232",
+    "expected_id": "7232",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/7232.jpg",
+    "image": "artifacts/queries/q027.jpg",
+    "sha256": "ba80b14abbdc93f3406e464b1b30fe0fc83c723b252598a07f2d9fb7c31303c2",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q028",
+    "source_id": "51758",
+    "expected_id": "51758",
+    "kind": "known",
+    "split": "calibration",
+    "original": "data/gallery-images/51758.jpg",
+    "image": "artifacts/queries/q028.jpg",
+    "sha256": "b08311f84761303044c19249a724e9544c236e030ae146944362bf6b130c22ea",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q029",
+    "source_id": "40291",
+    "expected_id": "40291",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/40291.jpg",
+    "image": "artifacts/queries/q029.jpg",
+    "sha256": "5589cc821c96b3baaeb39e96871a515db8f71d378d4cf5bbb581dec328eeed45",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Red",
+      "gender": "Unisex",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q030",
+    "source_id": "41843",
+    "expected_id": "41843",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/41843.jpg",
+    "image": "artifacts/queries/q030.jpg",
+    "sha256": "b57e60bb00907d5f51bc33ce6e1a4d5d81804c965521daeef64d96a95b121a04",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q031",
+    "source_id": "44408",
+    "expected_id": "44408",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/44408.jpg",
+    "image": "artifacts/queries/q031.jpg",
+    "sha256": "479c266ebb7b4bad29118232bb29056f024bc9e4072d92f29aac89c42301a082",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q032",
+    "source_id": "6326",
+    "expected_id": "6326",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/6326.jpg",
+    "image": "artifacts/queries/q032.jpg",
+    "sha256": "dfc7e1dcb2cf8d55a4d459799eca68ae9d98636016cb9a7222621c48045ab942",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Unisex",
+      "season": "Spring",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q033",
+    "source_id": "34859",
+    "expected_id": "34859",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/34859.jpg",
+    "image": "artifacts/queries/q033.jpg",
+    "sha256": "cc51a3d14ed87bba801c65c81662962d02edc4d7eacde743c6e20a5527aecba2",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q034",
+    "source_id": "11851",
+    "expected_id": "11851",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/11851.jpg",
+    "image": "artifacts/queries/q034.jpg",
+    "sha256": "12d0bf28ead262b81224f4a8dbd2d844beb4780b76542b277ce21b29f18c548f",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q035",
+    "source_id": "59053",
+    "expected_id": "59053",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/59053.jpg",
+    "image": "artifacts/queries/q035.jpg",
+    "sha256": "d1f0a57d5f1063037976ec10b2999765632aa8ffae273036e72d7e6b63558849",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q036",
+    "source_id": "44212",
+    "expected_id": "44212",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/44212.jpg",
+    "image": "artifacts/queries/q036.jpg",
+    "sha256": "9c31d3985a0d115b5673acc83a3244caec795393c99f0da64fadf4276d56a576",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q037",
+    "source_id": "33702",
+    "expected_id": "33702",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/33702.jpg",
+    "image": "artifacts/queries/q037.jpg",
+    "sha256": "06a08f15cb5688583d5777e6afb90ff35ab4536054d1c26a68f097e7111e0377",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Smart Casual"
+    }
+  },
+  {
+    "query_id": "q038",
+    "source_id": "35669",
+    "expected_id": "35669",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/35669.jpg",
+    "image": "artifacts/queries/q038.jpg",
+    "sha256": "af5c61bfbeea3e8d447190ac115df0433f68fadef0b7e064c7bb18b70a9b3b8c",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q039",
+    "source_id": "43371",
+    "expected_id": "43371",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/43371.jpg",
+    "image": "artifacts/queries/q039.jpg",
+    "sha256": "7ade7e15b6903fdf4fd7264ae02ff423ad9e49c6b884ae7af4c1a822f7d9c53b",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q040",
+    "source_id": "56994",
+    "expected_id": "56994",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/56994.jpg",
+    "image": "artifacts/queries/q040.jpg",
+    "sha256": "50d71e16723c6534b17b26203c3bddc0bb7f645a7d1ee241e04b5bbe6e68e463",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Orange",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q041",
+    "source_id": "7249",
+    "expected_id": "7249",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/7249.jpg",
+    "image": "artifacts/queries/q041.jpg",
+    "sha256": "847e140b34d4b217d31906ed241d1f7176875466ea0b4516d3026b91fe48f0b1",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q042",
+    "source_id": "10281",
+    "expected_id": "10281",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/10281.jpg",
+    "image": "artifacts/queries/q042.jpg",
+    "sha256": "04d6804124a674d37766d89c6cc9a14199e4d14c7dd95853094d601938646778",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q043",
+    "source_id": "12853",
+    "expected_id": "12853",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/12853.jpg",
+    "image": "artifacts/queries/q043.jpg",
+    "sha256": "d4e5f8b28fd21cf9a6d44fbf329e3d735cdd61578b80670398af6c74d01597ce",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q044",
+    "source_id": "45625",
+    "expected_id": "45625",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/45625.jpg",
+    "image": "artifacts/queries/q044.jpg",
+    "sha256": "34628d789f0fafc936ab4392d330be7f446f0becb5b7df633c32e3b06ff01400",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q045",
+    "source_id": "56993",
+    "expected_id": "56993",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/56993.jpg",
+    "image": "artifacts/queries/q045.jpg",
+    "sha256": "60bf10740802a06dfdf829a160ce116e4bcd2f980a3f0fa20686287ddc3328a2",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q046",
+    "source_id": "47529",
+    "expected_id": "47529",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/47529.jpg",
+    "image": "artifacts/queries/q046.jpg",
+    "sha256": "9bf807f31f0f9f0642b03ab3e2c3805b33c2f713fa5425c86983929a1e59c885",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Gold",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q047",
+    "source_id": "15303",
+    "expected_id": "15303",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/15303.jpg",
+    "image": "artifacts/queries/q047.jpg",
+    "sha256": "e3f3a78ec4efa5af83f07fe183e1919f5105abc0cdf67799ca99c561d7a9207c",
+    "ground_truth": {
+      "articleType": "Sports Sandals",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q048",
+    "source_id": "3696",
+    "expected_id": "3696",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/3696.jpg",
+    "image": "artifacts/queries/q048.jpg",
+    "sha256": "007ad1d54c179d82221898739231eb59a7a81edbeeeaf03da0508f3108a00224",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q049",
+    "source_id": "59031",
+    "expected_id": "59031",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/59031.jpg",
+    "image": "artifacts/queries/q049.jpg",
+    "sha256": "9b53ac1813e019b616b46e8f4ec109ee0c12c7a6eed3ab6b92bb0e21a1668d3a",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q050",
+    "source_id": "12719",
+    "expected_id": "12719",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/12719.jpg",
+    "image": "artifacts/queries/q050.jpg",
+    "sha256": "63784679f332623d4bf18fb2ab1a84f820abf46b0a2868dcda5d883e565546f5",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Green",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q051",
+    "source_id": "19329",
+    "expected_id": "19329",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/19329.jpg",
+    "image": "artifacts/queries/q051.jpg",
+    "sha256": "a08760f7d8865638414b9bd24e4f5d40c6e75efe80ede2d3335f3d5915965d07",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q052",
+    "source_id": "59762",
+    "expected_id": "59762",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/59762.jpg",
+    "image": "artifacts/queries/q052.jpg",
+    "sha256": "287de5b1024d8082b2dca109b8a72abcd0ef8ad5825dfd95ee496c88bd121de9",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Brown",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q053",
+    "source_id": "18552",
+    "expected_id": "18552",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/18552.jpg",
+    "image": "artifacts/queries/q053.jpg",
+    "sha256": "7a9e4ae6ad7d8241df4b648248b7b6416ee6a1d8e0f1bf034b90544c86f3553d",
+    "ground_truth": {
+      "articleType": "Flats",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q054",
+    "source_id": "47179",
+    "expected_id": "47179",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/47179.jpg",
+    "image": "artifacts/queries/q054.jpg",
+    "sha256": "a146c17c401b2cb2898ec36ddddc3ab433388ef50a5632929d7ca99d6a59140c",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q055",
+    "source_id": "17837",
+    "expected_id": "17837",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/17837.jpg",
+    "image": "artifacts/queries/q055.jpg",
+    "sha256": "f01dfa565522604134c95cbf5428237da7f8ad0022ccd8115badc1224348fa59",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q056",
+    "source_id": "9120",
+    "expected_id": "9120",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/9120.jpg",
+    "image": "artifacts/queries/q056.jpg",
+    "sha256": "5e79261125b443c67bac279fdcca7c9edd0d75ba461a8aabc986022cbd480690",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q057",
+    "source_id": "22142",
+    "expected_id": "22142",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/22142.jpg",
+    "image": "artifacts/queries/q057.jpg",
+    "sha256": "bb061e81e77df6ed3451db49cd528d3d8cb8ec01d627cff7adf4b690753f3365",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q058",
+    "source_id": "22130",
+    "expected_id": "22130",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/22130.jpg",
+    "image": "artifacts/queries/q058.jpg",
+    "sha256": "5da8543fdc7bb7f318713fb99ff276ac4b818424edc05e75b663434ccdff2bc0",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q059",
+    "source_id": "34643",
+    "expected_id": "34643",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/34643.jpg",
+    "image": "artifacts/queries/q059.jpg",
+    "sha256": "62363f8c1679fca56016e5dfc6d19762df85f714f902021b80b9044cca6a6a6c",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q060",
+    "source_id": "24695",
+    "expected_id": "24695",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/24695.jpg",
+    "image": "artifacts/queries/q060.jpg",
+    "sha256": "cc87446a274a7a2a3384917b10b38fa30634d26c59f1ad8b8fc9f2a10b9cf010",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q061",
+    "source_id": "2213",
+    "expected_id": "2213",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/2213.jpg",
+    "image": "artifacts/queries/q061.jpg",
+    "sha256": "3905f706796008daf88cc7f63c266de8c39e2232645a3f986126a33e47e7f3f9",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q062",
+    "source_id": "6285",
+    "expected_id": "6285",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/6285.jpg",
+    "image": "artifacts/queries/q062.jpg",
+    "sha256": "85953e89bd6924a1a3d7f1701e42f9a1282d7b58b61acacf89fa93f5d731809e",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Navy Blue",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q063",
+    "source_id": "6680",
+    "expected_id": "6680",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/6680.jpg",
+    "image": "artifacts/queries/q063.jpg",
+    "sha256": "a55949081b7e57ee162e539a27a5ad4bcefe2784ffc1768b0e3fe7955118943c",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Grey",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q064",
+    "source_id": "32191",
+    "expected_id": "32191",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/32191.jpg",
+    "image": "artifacts/queries/q064.jpg",
+    "sha256": "71d7842c46d744c557781bd7174fff15fbf9710ce63a7d4864f7fd7512b02551",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q065",
+    "source_id": "20823",
+    "expected_id": "20823",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/20823.jpg",
+    "image": "artifacts/queries/q065.jpg",
+    "sha256": "d8d59dd52c29838da2b00ada3e843674fa71b71058f5f0122de143a9942261f7",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q066",
+    "source_id": "6457",
+    "expected_id": "6457",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/6457.jpg",
+    "image": "artifacts/queries/q066.jpg",
+    "sha256": "963ee4c8997ad501273f6c01b345c4214e12dca2c151799953a404cf8a7f3440",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Blue",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q067",
+    "source_id": "43365",
+    "expected_id": "43365",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/43365.jpg",
+    "image": "artifacts/queries/q067.jpg",
+    "sha256": "0d2faaa3ec1f8abb8d04ece089fde6f1c81c1b9454d627569945ec18215189a0",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q068",
+    "source_id": "7578",
+    "expected_id": "7578",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/7578.jpg",
+    "image": "artifacts/queries/q068.jpg",
+    "sha256": "98a542cb44a6e558108734825a80270b7e4bf677f13a1a52384bd080b5c82651",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q069",
+    "source_id": "23838",
+    "expected_id": "23838",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/23838.jpg",
+    "image": "artifacts/queries/q069.jpg",
+    "sha256": "ae2d80b19953518ae0c30503cd3f59f406fa42c9e2a30811bc5656a1c325d0af",
+    "ground_truth": {
+      "articleType": "Sandals",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q070",
+    "source_id": "5926",
+    "expected_id": "5926",
+    "kind": "known",
+    "split": "test",
+    "original": "data/gallery-images/5926.jpg",
+    "image": "artifacts/queries/q070.jpg",
+    "sha256": "1ab2d0ce6ed6fcac5ccbae856cfd47e36ca1d6e223f274baa631bfc2cfa0c4a0",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q071",
+    "source_id": "26522",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/26522.jpg",
+    "image": "artifacts/queries/q071.jpg",
+    "sha256": "acd998710b63bdb965d0da57d370b03732c7ff8647e585b48c7e9f1b8c217cb4",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q072",
+    "source_id": "36134",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/36134.jpg",
+    "image": "artifacts/queries/q072.jpg",
+    "sha256": "533a09df49a3bf9c11bf5f8bda40f695654780affd6d7e09e27a456eed80d25a",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Beige",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q073",
+    "source_id": "9126",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/9126.jpg",
+    "image": "artifacts/queries/q073.jpg",
+    "sha256": "5c1dd70cec6e79a098b2f5bd68148d567825472c3257d5ccd45359dab7c6e543",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q074",
+    "source_id": "7858",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/7858.jpg",
+    "image": "artifacts/queries/q074.jpg",
+    "sha256": "a70a8998e0af2638e89ab2f5f25d0db09c4e3731d9fb429f592bebc5a4d276be",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q075",
+    "source_id": "59174",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/59174.jpg",
+    "image": "artifacts/queries/q075.jpg",
+    "sha256": "6ccc66770e2630fa22b239dff68ffe338262b51a4dacbf24177e932f840c8423",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q076",
+    "source_id": "3228",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/3228.jpg",
+    "image": "artifacts/queries/q076.jpg",
+    "sha256": "1a9a57c23429d00e0e0e710a560772678c8f735e73e3d83992e516823bf8cc10",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q077",
+    "source_id": "12521",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/12521.jpg",
+    "image": "artifacts/queries/q077.jpg",
+    "sha256": "2721030d986b17b4938923692731f8222d44872434a2e360e7e481200e355d78",
+    "ground_truth": {
+      "articleType": "Formal Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q078",
+    "source_id": "15524",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/15524.jpg",
+    "image": "artifacts/queries/q078.jpg",
+    "sha256": "1dd5097264218ff8c3c9e789f608eb09fb03c064b258ab93765b082fb80c02d8",
+    "ground_truth": {
+      "articleType": "Heels",
+      "baseColour": "Grey",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q079",
+    "source_id": "24429",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/24429.jpg",
+    "image": "artifacts/queries/q079.jpg",
+    "sha256": "266144a4c3bf28b5c1ce984d6825773139637d3550d5fac9c66e912b31daa80c",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q080",
+    "source_id": "51754",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/51754.jpg",
+    "image": "artifacts/queries/q080.jpg",
+    "sha256": "8e7d1ddba44c2b705fa365e90426f517fcd14be48314119912ba7d5cfc7dfe42",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Pink",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q081",
+    "source_id": "24180",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/24180.jpg",
+    "image": "artifacts/queries/q081.jpg",
+    "sha256": "40ba8d6f7392280980f9f590ab4e56065c4b6ed2166b24049ca776c42f0bbf9f",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Black",
+      "gender": "Unisex",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q082",
+    "source_id": "28634",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/28634.jpg",
+    "image": "artifacts/queries/q082.jpg",
+    "sha256": "0ea1a3e0bf6e8f52ab726725d63d2dfa1bac46a6a0d69d81b33fd2d558d80668",
+    "ground_truth": {
+      "articleType": "Sports Shoes",
+      "baseColour": "White",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Sports"
+    }
+  },
+  {
+    "query_id": "q083",
+    "source_id": "46115",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/46115.jpg",
+    "image": "artifacts/queries/q083.jpg",
+    "sha256": "a347080185aa08ee081c9545e8ee1e8e911a3c2fdbbb7d8311882320aa687e3e",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Olive",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q084",
+    "source_id": "22832",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/22832.jpg",
+    "image": "artifacts/queries/q084.jpg",
+    "sha256": "a3be158df2c78d8aea1ed1c85b295243d5fe8e8d6462e3db497b022e09f93ae1",
+    "ground_truth": {
+      "articleType": "Casual Shoes",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q085",
+    "source_id": "43375",
+    "expected_id": null,
+    "kind": "unknown_footwear",
+    "split": "test",
+    "original": "data/gallery-images/43375.jpg",
+    "image": "artifacts/queries/q085.jpg",
+    "sha256": "7cbd906a43c7af0121c3c53774a290336366d3c050918cc95260efaf2a997ed4",
+    "ground_truth": {
+      "articleType": "Flip Flops",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q086",
+    "source_id": "22073",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/22073.jpg",
+    "image": "artifacts/queries/q086.jpg",
+    "sha256": "c7b239bb6299305989d029896de5fdfac2709883e5e418a74519122b3dad2cd4",
+    "ground_truth": {
+      "articleType": "Kurtas",
+      "baseColour": "Green",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Ethnic"
+    }
+  },
+  {
+    "query_id": "q087",
+    "source_id": "48651",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/48651.jpg",
+    "image": "artifacts/queries/q087.jpg",
+    "sha256": "a073adfbe61f8216af713e1f17facb2b6790e825e6dbddbbab46ffbad5c0c7cf",
+    "ground_truth": {
+      "articleType": "Earrings",
+      "baseColour": "Silver",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q088",
+    "source_id": "52576",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/52576.jpg",
+    "image": "artifacts/queries/q088.jpg",
+    "sha256": "d8b362aefaf200994d5283a2d0d157a5a84f747de84092c386843f153fcc4e18",
+    "ground_truth": {
+      "articleType": "Clutches",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q089",
+    "source_id": "3060",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/3060.jpg",
+    "image": "artifacts/queries/q089.jpg",
+    "sha256": "f13ebfca2c4d42f5a1eab5af0ad60fc30fc069c6da7add845aec9476d28dfe8c",
+    "ground_truth": {
+      "articleType": "Tshirts",
+      "baseColour": "Beige",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q090",
+    "source_id": "32502",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/32502.jpg",
+    "image": "artifacts/queries/q090.jpg",
+    "sha256": "dfc19b991d41c2d07a628fda46a5578d0c14e96b728da71cbea19cb606088079",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q091",
+    "source_id": "35038",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "calibration",
+    "original": "data/gallery-images/35038.jpg",
+    "image": "artifacts/queries/q091.jpg",
+    "sha256": "06cd7d9d93b00a82a3738cf3ed03ad80154c0b2d3a057d8075d209e0a742c37a",
+    "ground_truth": {
+      "articleType": "Kurtas",
+      "baseColour": "Pink",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Ethnic"
+    }
+  },
+  {
+    "query_id": "q092",
+    "source_id": "25295",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/25295.jpg",
+    "image": "artifacts/queries/q092.jpg",
+    "sha256": "477eb1224a456b7fb8031807bada4817fd3644f956ffeaf7f177eb03a6abb585",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q093",
+    "source_id": "26103",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/26103.jpg",
+    "image": "artifacts/queries/q093.jpg",
+    "sha256": "4870bb71170331f57d7c49cb4149fd33dab6c4e2c401dc58a4b3f44d6f165b52",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Summer",
+      "usage": "Formal"
+    }
+  },
+  {
+    "query_id": "q094",
+    "source_id": "34865",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/34865.jpg",
+    "image": "artifacts/queries/q094.jpg",
+    "sha256": "72507fcc1a8877e010204b8c23b1e8af5111a62150bd21ea230de692a42a3534",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Summer",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q095",
+    "source_id": "58549",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/58549.jpg",
+    "image": "artifacts/queries/q095.jpg",
+    "sha256": "accfbb2123216df99ed531b09c9e621752eb50e29fb8e16f8c01c2faa0d42c18",
+    "ground_truth": {
+      "articleType": "Sunglasses",
+      "baseColour": "Black",
+      "gender": "Women",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q096",
+    "source_id": "33415",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/33415.jpg",
+    "image": "artifacts/queries/q096.jpg",
+    "sha256": "69b3c753d9c8a693e951b307548e58fcc640f4b62dc8671e007089501351a3b1",
+    "ground_truth": {
+      "articleType": "Handbags",
+      "baseColour": "Purple",
+      "gender": "Women",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q097",
+    "source_id": "58805",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/58805.jpg",
+    "image": "artifacts/queries/q097.jpg",
+    "sha256": "8f2a9bd30e6597dd6f12c465ec7080a42a56d1e3af1fd7a05d70ff93e678e697",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Blue",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q098",
+    "source_id": "15151",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/15151.jpg",
+    "image": "artifacts/queries/q098.jpg",
+    "sha256": "f2cff3b3be25cca81cdf6fc037feb28f82aab5c1aa029efec7e3a9162a6256ff",
+    "ground_truth": {
+      "articleType": "Shirts",
+      "baseColour": "Purple",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q099",
+    "source_id": "46318",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/46318.jpg",
+    "image": "artifacts/queries/q099.jpg",
+    "sha256": "5128102e61e4591d6025ba3e0205d732a768560a32c0e99718aeefd0114c8a41",
+    "ground_truth": {
+      "articleType": "Watches",
+      "baseColour": "Brown",
+      "gender": "Men",
+      "season": "Winter",
+      "usage": "Casual"
+    }
+  },
+  {
+    "query_id": "q100",
+    "source_id": "10670",
+    "expected_id": null,
+    "kind": "non_footwear",
+    "split": "test",
+    "original": "data/gallery-images/10670.jpg",
+    "image": "artifacts/queries/q100.jpg",
+    "sha256": "b2b3f739d906fe431f4e5141b4e0ca050f92a3dfd92b931a26abc0b84d2cf7eb",
+    "ground_truth": {
+      "articleType": "Tshirts",
+      "baseColour": "Black",
+      "gender": "Men",
+      "season": "Fall",
+      "usage": "Casual"
+    }
+  }
+]
